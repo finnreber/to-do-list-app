@@ -1,1 +1,1 @@
-Basic web app using Flask and HTML
+Basic web app using Flask, HTML, and CSS
